@@ -1,0 +1,9 @@
+diff a/resources/views/staff_voices/preview.blade.php b/resources/views/staff_voices/preview.blade.php	(rejected hunks)
+@@ -2,7 +2,6 @@
+ 
+ @section('content')
+ <div class="space"></div>
+-                <img class="staff-prewivew-img img-fluid" src="{{$img}}" alt="求人" class="w-50">
+ <div class="clearfix" id="app">
+ 
+   <div class="preview-card">

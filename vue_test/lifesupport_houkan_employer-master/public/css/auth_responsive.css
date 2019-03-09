@@ -1,0 +1,121 @@
+
+@media screen and (max-width: 1000px){
+body{
+    min-width: 100%;
+    margin:0 auto;
+}
+.login-block .main-block{
+		width:100%;
+	}
+.main-block .main-form-w{
+	width:95%;
+}
+.main-block{
+	width:100%;
+}
+.main-form-auto{
+	width:100%;
+}
+.main-content .main-content-inner{
+	width:95%;
+}
+.card-flowchart-m{
+	padding-left: 0px;
+}
+.form-footer .login-btn{
+	width:50%;
+	cursor: pointer;
+}
+.card-flowchart-content{
+	width: 175px;
+}
+.card-flowchart-detail{
+	font-size: 13px;
+}
+}
+@media all and (max-width: 767px) {
+.login-block .main-block{
+		width:100%;
+	}
+.main-block .main-form-w{
+	width:95%;
+}
+.main-block{
+	width:100%;
+}
+.main-form-auto{
+	width:100%;
+}
+.main-content .main-content-inner{
+	width:95%;
+}
+.card-flowchart-m{
+	padding-left: 0px;
+}
+.main-content-register{
+	padding:0 14px;
+}
+.definition-table-head, .filter-table-head {
+    width: 40%;
+    display: table-cell;
+    font-size: 14px;
+    padding: 19px 10px;
+}
+.definition-head-item-left, .filter-head-item-left {
+    padding: 0 0 0 5px;
+}
+.register-btn{
+	font-size: 15px;
+}
+.main-content-login .heading{
+	text-align: left !important;
+}
+}
+@media all and (max-width: 460px) {
+.login-block .main-block{
+		width:100%;
+	}
+.main-content-login .heading{
+	text-align: left !important;
+}
+.form-body .form-field-label{
+	width:100%;
+}
+.form-body  .form-field-input{
+	width:100%;
+}
+.main-block .main-form-w{
+	width:95%;
+}
+.main-block{
+	width:100%;
+}
+.main-form-auto{
+	width:100%;
+}
+.main-content .main-content-inner{
+	width:95%;
+}
+.card-flowchart-m{
+	padding-left: 0px;
+}
+.main-content-register{
+	padding:0 14px;
+}
+.definition-table-head, .filter-table-head {
+    width: 40%;
+    display: table-cell;
+    font-size: 12px;
+    padding: 19px 10px;
+}
+.definition-label-red{
+	padding:0px;
+}
+.definition-head-item-left, .filter-head-item-left {
+    padding: 0 0 0 5px;
+}
+.register-btn{
+	width:100%;
+	font-size: 13px;
+}
+}

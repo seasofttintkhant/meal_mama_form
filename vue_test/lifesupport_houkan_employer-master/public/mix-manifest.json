@@ -1,0 +1,9 @@
+{
+    "/js/facility/edit.js": "/js/facility/edit.js",
+    "/js/facility/create.js": "/js/facility/create.js",
+    "/js/job/edit.js": "/js/job/edit.js",
+    "/js/job/create.js": "/js/job/create.js",
+    "/js/image_manager_app.js": "/js/image_manager_app.js",
+    "/js/auth/register.js": "/js/auth/register.js",
+    "/js/bootstrap.js": "/js/bootstrap.js"
+}
